@@ -16,8 +16,5 @@ int main(){
 		cout<<"\ncuidate";
 	}
 	
-	
-	
-	
 	return 0;
 }
